@@ -1,8 +1,0 @@
-.cont{
-    margin: 10px 0;
-    display: grid;
-  grid-template-columns: auto auto auto auto;
-  gap: 10px;
-  background-color: transparent;
-  padding: 10px; 
-}
